@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://JujiaLi2020.github.io/Jujia-academic-card/'
 languageCode = 'en-us'
 title = 'Julia | Psychometrician'
 theme = 'PaperMod'
@@ -12,6 +12,10 @@ theme = 'PaperMod'
         enabled = true
         title = "Jujia (J)"
         subtitle = "Ph.D. Candidate in Computational Psychometrics | Developer of PsyMAS"
+	# 如果你没有照片，建议先删除或注释掉 imageUrl 行
+        # imageUrl = "https://your-photo.jpg" 
+        imageWidth = 120   # 限制头像宽度
+        imageHeight = 120  # 限制头像高度
         
         [[params.profileMode.buttons]]
             name = "Explore PsyMAS"
