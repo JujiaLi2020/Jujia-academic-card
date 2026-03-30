@@ -27,6 +27,10 @@ theme = 'PaperMod'
     [[params.socialIcons]]
         name = "github"
         url = "https://github.com/JujiaLi2020/psych-mas"
+		imageWidth = 120   # 限制头像宽度
+        imageHeight = 120  # 限制头像高度
     [[params.socialIcons]]
         name = "email"
         url = "mailto:jli183@crimson.ua.edu"
+		imageWidth = 120   # 限制头像宽度
+        imageHeight = 120  # 限制头像高度
