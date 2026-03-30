@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Julia | Psychometrician</title>
+    <link>http://localhost:11626/</link>
+    <description>Recent content on Julia | Psychometrician</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:11626/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:11626/posts/ps-mas-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:11626/posts/ps-mas-introduction/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;PS-MAS: Autonomous Psychometric Pipeline&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-03-30&lt;/p&gt;
+&lt;p&gt;tags: [&amp;ldquo;Psychometrics&amp;rdquo;, &amp;ldquo;AI&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;categories: [&amp;ldquo;Research&amp;rdquo;]&lt;/p&gt;
+&lt;p&gt;author: &amp;ldquo;Julia&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## Project Overview&lt;/p&gt;
+&lt;p&gt;The PS-MAS project replaces manual forensics with a Dockerized pipeline.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

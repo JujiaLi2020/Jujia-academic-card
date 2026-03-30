@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Julia | Psychometrician'
+theme = 'PaperMod'
+
+[params]
+    defaultTheme = 'auto'
+    showReadingTime = true
+    
+    # 开启首页名片模式
+    [params.profileMode]
+        enabled = true
+        title = "Jujia (J)"
+        subtitle = "Ph.D. Candidate in Computational Psychometrics | Developer of PsyMAS"
+        
+        [[params.profileMode.buttons]]
+            name = "Explore PsyMAS"
+            url = "/posts/ps-mas-introduction"
+        [[params.profileMode.buttons]]
+            name = "LinkedIn"
+            url = "https://www.linkedin.com/in/jujia-li-a1905a172/"
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/JujiaLi2020/psych-mas"
+    [[params.socialIcons]]
+        name = "email"
+        url = "mailto:jli183@crimson.ua.edu"
